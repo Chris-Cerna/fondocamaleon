@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex: content;
+}
+
+button {
+  font-size: 20px;
+  font-family:Verdana;
+  color:white;
+  background-color: cadetblue;
+  border:black;
+  padding: 15px;
+  width: auto;
+  height: auto;
+  border-radius: 100px;
+  border-color: black;
+  border-style:inset;
+  cursor: pointer;
+}
+
